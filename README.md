@@ -125,8 +125,7 @@
 
 ```
    /\_/\
-  ( o.o )  meow~
-   > ^ <
+  (ᐡ⦁⩊⦁⸝⸝ᐡ )₊୭  meow~
 ```
 
 ⭐️ **LintCat** · 饲养员 [@Nicoleweimeow](https://github.com/Nicoleweimeow) 🐾 · Made with 🐾 & naps
