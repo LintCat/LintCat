@@ -21,13 +21,13 @@
 ### 🧰 技能树
 
 <p align="center">
-  正经版（都会一点点，我就是全面猫猫，喵哈哈😹）：
+  正经版（我就是全面猫猫，喵哈哈😹）：
   <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,kotlin,java,flutter,swift,gradle,git,github,linux,powershell,androidstudio,py,pycharm,js,ts,html,css,nodejs,rust,go,lua,bash,docker,mysql,sqlite,redis,vscode,idea,md,regex,c,cs,cpp,cmake,flask,nginx,npm,vim,vue&perline=8" />
+  <img src="https://skillicons.dev/icons?i=vscode,kotlin,java,flutter,swift,gradle,git,github,linux,powershell,androidstudio,py,pycharm,js,ts,html,css,nodejs,rust,go,lua,bash,docker,mysql,sqlite,redis,vscode,idea,md,regex,c,cs,cpp,cmake,flask,nginx,npm,php,vim,vue&perline=8" />
   <br/><br/>
   摸鱼版（猫猫最擅长摸鱼🐟）：
   <br/>
-  <img src="https://skillicons.dev/icons?i=spotify,discord,instagram,youtube,apple,raspberrypi,unity,godot,blender,ai,ae,ps,pr&perline=13" />
+  <img src="https://skillicons.dev/icons?i=spotify,discord,instagram,youtube,apple,raspberrypi,unity,godot,blender,ai,ae,ps,pr&perline=8" />
 </p>
 
 ---
