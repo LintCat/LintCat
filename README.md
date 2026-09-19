@@ -25,7 +25,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=vscode,kotlin,java,flutter,swift,gradle,git,github,linux,powershell,androidstudio,py,pycharm,js,ts,html,css,nodejs,rust,go,lua,bash,docker,mysql,sqlite,redis,vscode,idea,md,regex,c,cs,cpp,cmake,flask,nginx,npm,php,vim,vue&perline=8" />
   <br/><br/>
-  设计版（就算是设计，猫猫我也是略知一二🎨）：
+  设计版（就算是设计猫猫也是略知一二🎨）：
   <br/>
   <img src="https://skillicons.dev/icons?i=raspberrypi,unity,godot,blender,figma,ai,ae,ps,pr&perline=9" />
 <br/><br/>
@@ -119,7 +119,7 @@
 
 ```
    /\_/\
-           (ᐡ⦁⩊⦁⸝⸝ᐡ )୭  meow~
+           (ᐡ⦁⩊⦁⸝⸝ᐡ )୭ meow~
 ```
 
 ⭐️ **LintCat** · 饲养员 [@Nicoleweimeow](https://github.com/Nicoleweimeow) 🐾 · Made with 🐾 & naps
