@@ -27,11 +27,11 @@
   <br/><br/>
   设计版（就算是设计，猫猫我也是略知一二🎨）：
   <br/>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,unity,godot,blender,figma,ai,ae,ps,pr&perline=8" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,unity,godot,blender,figma,ai,ae,ps,pr&perline=9" />
 <br/><br/>
   摸鱼版（猫猫最擅长摸鱼🐟）：
   <br/>
-  <img src="https://skillicons.dev/icons?i=spotify,discord,instagram,twitter,youtube&perline=8" />
+  <img src="https://skillicons.dev/icons?i=spotify,discord,instagram,twitter&perline=4" />
 </p>
 ---
 
